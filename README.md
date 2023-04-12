@@ -9,8 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=cyberrie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cyberrie&theme=tokyonight&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberrie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cyberrie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
   
   </div>
