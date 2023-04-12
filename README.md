@@ -1,5 +1,5 @@
 ## Hello World! 👋🏻
-🔭 I'm a Frontend Developer and Career Switcher 🚀 currently building a Full-Stack eCommerce React app...  <br>👯 I'm always open to collaborations, so feel free to reach out! <br>⚡ I enjoy learning about the latest design trends and techniques, and I'm always looking for ways to incorporate them into my projects.
+🔭 I'm a Frontend Developer and Career Switcher 🚀 <br>👯 I'm always open to collaborations, so feel free to reach out! <br>⚡ I enjoy learning about the latest design trends and techniques, and I'm always looking for ways to incorporate them into my projects.
 
 <div align="center">
 
