@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-🔭 Aspiring Career Switcher 🚀 <br>⚡ Currently learning TypeScript and crushing Codewars Katas in JS and Python<br>👯 Feel free to reach out for any project collaborations
+🚀 Passionate about the incredible potential of technology to bring positive change <br>👯 Feel free to reach out for any project collaborations
 
 <div align="left">
 
