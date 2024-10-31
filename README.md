@@ -2,7 +2,7 @@
 
 **`Physio turned Technologist`**
 
-☕️ I code to buy coffee. I turn coffee into code. It's the circle of life... <br>🧬 Currently weaving the DNA of Healthcare through Clinical Informatics
+☕️ I code to buy coffee. I turn coffee into code. It's the circle of life... 
 
 <div align="left">
 
